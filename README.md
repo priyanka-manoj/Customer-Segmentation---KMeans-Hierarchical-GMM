@@ -1,6 +1,3 @@
-# Customer-Segmentation---KMeans-Hierarchical-GMM
-Credit Card Customer Analytics
-
 # Customer Segmentation of AllLife Bank Credit-Card Customers
 
 ## Overview
